@@ -1,5 +1,5 @@
 Distribution domain name
-MY FIRST CLOUD WEBSITE HOSTED
+A website hosted on an s3 Bucket
 https://d1e6uxeur11y0y.cloudfront.net
 
 ARN
